@@ -3,6 +3,7 @@
 **Tagline:** "Every number tells a story, and every metric drives a decision."
 
 An AI-powered conversational stock analysis platform that provides deep insights with full transparency on data sources, calculations, and implications. Unlike traditional finance apps, StoryStock explains the **WHY** behind every metric.
+![screenshot](./images/storystock.png)
 
 ## Features
 
@@ -339,8 +340,5 @@ Built with:
 - [Socket.IO](https://socket.io/) - Real-time communication
 
 ---
-
-## How does the UI look:
-- ![Screenshot](./images/storystock.png) 
 
 **Remember:** Every number should tell a story, and every metric should drive a decision. 🚀
