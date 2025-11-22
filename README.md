@@ -340,4 +340,7 @@ Built with:
 
 ---
 
+## How does the UI look:
+- ![Screenshot](./images/storystock.png) 
+
 **Remember:** Every number should tell a story, and every metric should drive a decision. 🚀
